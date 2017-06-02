@@ -34,6 +34,7 @@ public class ProfileActivity extends AppCompatActivity implements ChangePassword
     private TextView mTvDate;
     private Button mBtChangePassword;
     private Button mBtLogout;
+    private String s;
 
     private ProgressBar mProgressbar;
 
