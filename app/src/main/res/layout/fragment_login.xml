@@ -74,7 +74,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/btn_login"
                 android:layout_marginTop="@dimen/button_margin"
-                android:text="Not Registered ? Register Now !"
+                android:text="Not registered?"
                 android:textAlignment="center" />
 
             <TextView
@@ -83,7 +83,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/tv_register"
                 android:layout_marginTop="@dimen/button_margin"
-                android:text="Forgot Password ?"
+                android:text="Forgot password?"
                 android:textAlignment="center" />
 
             <ProgressBar
